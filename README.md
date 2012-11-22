@@ -1,4 +1,4 @@
 traces
 ======
 
-Notes and meta commentary on current and future projectts
+Notes and meta commentary on current and future projects
